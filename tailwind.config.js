@@ -4,9 +4,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        "primary": "#c1292e",
+        "secondary": "#141D24"
+      },
       theme: {
         fontFamily: {
-          body: ['Rubik'] 
+          body: ['Poppins'] 
         },
       },
     },

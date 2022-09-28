@@ -10,11 +10,6 @@
     <br />
      <a href="https://docs.alchemy.com/alchemy/enhanced-apis/nft-api">Explore the docs</a>
     ·
-    <a href="https://github.com/alchemyplatform/Build-Your-NFT-Explorer/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/alchemyplatform/Build-Your-NFT-Explorer/issues">Request Feature</a>
-  </p>
-
 </div>
   
 
@@ -70,5 +65,8 @@ Distributed under the MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## This repo was originally created by the wonderful developers, updated by Moxerit:
 
+@VittoStack
+@thatguyintech
 
